@@ -1,0 +1,47 @@
+body{
+    background: url(https://images.unsplash.com/photo-1557682257-2f9c37a3a5f3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=486&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#content{
+    text-align: center;
+    padding-top: 22%;
+}
+
+h1{
+    color: #f8f8f8;
+    font-size: 80px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: -20px;
+}
+
+h3{
+    color: #ffe7aa;
+    font-size: 45px;
+}
+
+.btn{
+    color: #f8f8f8;
+    background-color: black;
+    border: black;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.btn-primary:hover{
+    background-color: tomato;
+    border: tomato;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.navbar-brand{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.navbar-default .navbar-brand{
+    color: black;
+}
+
+.navbar-default .navbar-nav > li > a{
+    color: #888888;
+}
